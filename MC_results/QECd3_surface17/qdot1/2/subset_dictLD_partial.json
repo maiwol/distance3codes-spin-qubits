@@ -1,0 +1,18 @@
+{
+    "0":{
+        "cardinality":1.0,
+        "fraction_sampled":10000.0,
+        "n_samples":10000,
+        "p_occurrence":5.112987906985576e-09,
+        "subset":[
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
+}
