@@ -23,7 +23,7 @@ To generate the JSON files with the raw data, run either
 
 `QEC_d3_surface17_MC_fast_qdot_prep1.py` (for state preparation).  
 
-The scripts are written in Python2.  In bash, run the following command:
+The scripts are written in Python2.  After compiling the underlying simulator `chp_extended.c`, then, in bash, run the following command:
 
 ``` 
 $python2 QEC_d3_surface17_MC_fast_qdot1.py n_proc QEC_code state
